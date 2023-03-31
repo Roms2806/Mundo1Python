@@ -1,4 +1,4 @@
-#
+# > Um programa que leia um número inteiro e mostre na tela seu antecessor e seu sucessor
 
 n = int(input('Digite um numero: '))
 antecessor = n - 1

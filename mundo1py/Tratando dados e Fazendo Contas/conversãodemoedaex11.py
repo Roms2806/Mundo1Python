@@ -1,3 +1,6 @@
+# >Um programa que leia quanto de dinheiro a pessoa tem na carteira 
+# >Mostre quanto pode comprar em dólares e Euro
+
 real = float(input('Quantos reais você tem na carteira? R$'))
 dolar = real / 5.64
 euro = real / 6.52

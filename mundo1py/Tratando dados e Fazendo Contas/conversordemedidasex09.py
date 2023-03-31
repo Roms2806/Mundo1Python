@@ -1,3 +1,5 @@
+# > Um programa que leia um valor em metros e o exiba convertendo em cm e mm
+
 m = float(input('Digite um valor em metros:'))
 km = m * 0.001
 hec = m * 0.01

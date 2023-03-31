@@ -1,3 +1,5 @@
+# > Calcular 2 notas de um aluno e mostrar sua média
+
 a1 = float(input('Primeira Nota: '))
 a2 = float(input('Segunda Nota:'))
 A = a1 + a2

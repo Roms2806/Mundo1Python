@@ -1,3 +1,5 @@
+#ler um número inteiro e mostrar sua tabuada
+
 n = int(input('Digite um número: '))
 print('Segue Tabuada de {}{}{}'.format('\33[4;34m', n, '\33[m'))
 print('\33[1;31m-\33[m' * 20)
