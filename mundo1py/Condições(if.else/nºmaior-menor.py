@@ -1,3 +1,7 @@
+"""
+Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+"""
+
 n1 = input('Digite um número:')
 n2 = input('Digite mais um número:')
 n3 = input('Digite o terceiro número: ')
